@@ -1,4 +1,4 @@
-# Frontier Echo â€” Windows Alpha
+# Frontier Echo — Windows Alpha
 
 Explore, trade, build and defend your place in the galaxy.
 
