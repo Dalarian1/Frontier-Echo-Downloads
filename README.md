@@ -13,7 +13,7 @@ Explore, trade, build and defend your place in the galaxy.
 Windows 10/11, 64-bit. No GitHub account or administrator access is needed.
 The installer is not Windows code-signed yet, so Windows may show an unknown-publisher warning. Only use the download linked from this repository; if your computer blocks it, ask your host for help rather than disabling security software.
 
-For multiplayer, ask your host for your **personal invitation file**. In the game choose **Multiplayer Alpha** and import that invitation. Keep it private: do not post it in chat, in this repository, or in a bug report. Downloading the game does not automatically grant access to a private server.
+For multiplayer, ask your host for your **personal invitation file**. Choose **Play** and select it once. The game remembers its location; future Play clicks connect directly into flight. Keep the file where you saved it, or use **Connection** to select its new location. Important "While you were away" reports appear in-game, not on a separate connection desk. Keep your invitation private: do not post it in chat, in this repository, or in a bug report. Downloading the game does not automatically grant access to a private server.
 
 ## Updates and saves
 
